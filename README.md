@@ -70,10 +70,6 @@ Supports:
 - `/health/live`
 - `/health/ready`
 
-## Health Endpoint
-
-![Health Check](assets/health.png)
-
 ---
 
 # Run Locally
